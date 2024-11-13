@@ -1,0 +1,5 @@
+package com.tejas.user_management_proj.model;
+
+public class User {
+
+}
